@@ -11,3 +11,5 @@ A website containing the next:
 - A page for weather
 - A page for checking for viruses - https://www.virustotal.com/en/documentation/public-api/
 - Holidays - https://calendarific.com/
+- password generator
+- password manager
